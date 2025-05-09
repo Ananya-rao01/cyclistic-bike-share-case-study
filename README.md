@@ -14,10 +14,12 @@ This is the final capstone project for the Google Data Analytics Certificate. Th
 
  File                                              
 [Case_Study_Analysis.ipynb](https://github.com/Ananya-rao01/cyclistic-bike-share-case-study/blob/main/Case_Study_Analysis.ipynb) ->Full Jupyter Notebook (data cleaning, EDA, visualization) 
- [Cyclistic_Case_Study_Report.pdf](./Cyclistic_Case_Study_Report.pdf)->Final polished report 
-[Cyclistic_Case_Study_Report_with_Code.pdf](./Cyclistic_Case_Study_Report_with_Code.pdf)->Full report with code outputs 
- [Cyclistic_Dashboard.twbx](./Cyclistic_Dashboard.twbx)->Tableau dashboard 
- [Dashboard_Preview.png](./Dashboard_Preview.png) -> Screenshot of the interactive dashboard
+ [Cyclistic_Case_Study_Report.pdf](https://github.com/Ananya-rao01/cyclistic-bike-share-case-study/blob/main/Cyclistic_Case_Study_Report.pdf)->Final polished report 
+[Cyclistic_Case_Study_Report_with_Code.pdf](https://github.com/Ananya-rao01/cyclistic-bike-share-case-study/blob/main/Cyclistic_Case_Study_Report_with_Code.pdf
+)->Full report with code outputs 
+ [Cyclistic_Dashboard.twbx](https://github.com/Ananya-rao01/cyclistic-bike-share-case-study/blob/main/Cyclistic_Dashboard.twbx
+)->Tableau dashboard 
+ [Dashboard_Preview.png](https://github.com/Ananya-rao01/cyclistic-bike-share-case-study/blob/main/Dashboard_Preview.png) -> Screenshot of the interactive dashboard
 
 ---
 
@@ -35,6 +37,8 @@ This project uses 12 months of public ride data from Divvy:
 
 Explore the dynamic dashboard here:  
  [Cyclistic Tableau Dashboard](https://public.tableau.com/views/Cyclistic_Dashboard_17467570245440/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ 
+ [![Dashboard Preview](Dashboard_Preview.png)](https://public.tableau.com/views/Cyclistic_Dashboard_17467570245440/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 

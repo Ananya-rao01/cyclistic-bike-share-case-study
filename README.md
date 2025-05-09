@@ -4,14 +4,19 @@
 This is the final capstone project for the Google Data Analytics Certificate. The goal was to analyze how casual riders and annual members use Cyclistic bike-share service differently, and suggest strategies to convert casual users into annual members.
 
 ---
+##  Business Objective
+
+- Understand how **casual riders** and **annual members** use Cyclistic differently.
+- Recommend strategies to increase annual memberships based on usage behavior.
+---
 
 ## Files Included
 
  File                                              
-`cyclistic_analysis.ipynb` ->Full Jupyter Notebook (data cleaning, EDA, visualization) 
-`Cyclistic_Case_Study_Report.pdf`->Final polished report 
-`Cyclistic_Case_Study_Report_with_Code.pdf`->Full report with code outputs 
-`Cyclistic_Dashboard.twbx`->Tableau dashboard 
+[Case_Study_Analysis.ipynb](./Case_Study_Analysis.ipynb) ->Full Jupyter Notebook (data cleaning, EDA, visualization) 
+ [Cyclistic_Case_Study_Report.pdf](./Cyclistic_Case_Study_Report.pdf)->Final polished report 
+[Cyclistic_Case_Study_Report_with_Code.pdf](./Cyclistic_Case_Study_Report_with_Code.pdf)->Full report with code outputs 
+ [Cyclistic_Dashboard.twbx](./Cyclistic_Dashboard.twbx)->Tableau dashboard 
 
 ---
 
@@ -38,6 +43,20 @@ Explore the dynamic dashboard here:
 - Jupyter Notebook
 - Tableau Public
 - Google Docs / Word
+
+---
+##  Key Insights
+
+- Members take more frequent but shorter rides
+- Casual riders are most active on weekends and use bikes for longer durations
+- Classic and electric bikes are used more than scooters
+
+---
+##  Recommendations
+
+- **Weekend promotions** for casual users
+- **Convert long-duration casuals** with membership discounts
+- **Targeted campaigns** for casual riders using electric bikes
 
 ---
 

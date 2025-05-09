@@ -17,6 +17,7 @@ This is the final capstone project for the Google Data Analytics Certificate. Th
  [Cyclistic_Case_Study_Report.pdf](./Cyclistic_Case_Study_Report.pdf)->Final polished report 
 [Cyclistic_Case_Study_Report_with_Code.pdf](./Cyclistic_Case_Study_Report_with_Code.pdf)->Full report with code outputs 
  [Cyclistic_Dashboard.twbx](./Cyclistic_Dashboard.twbx)->Tableau dashboard 
+ [Dashboard_Preview.png](./Dashboard_Preview.png) -> Screenshot of the interactive dashboard
 
 ---
 

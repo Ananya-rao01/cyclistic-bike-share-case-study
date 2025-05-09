@@ -17,7 +17,7 @@ This is the final capstone project for the Google Data Analytics Certificate. Th
  [Cyclistic_Case_Study_Report.pdf](https://github.com/Ananya-rao01/cyclistic-bike-share-case-study/blob/main/Cyclistic_Case_Study_Report.pdf)->Final polished report 
 [Cyclistic_Case_Study_Report_with_Code.pdf](https://github.com/Ananya-rao01/cyclistic-bike-share-case-study/blob/main/Cyclistic_Case_Study_Report_with_Code.pdf
 )->Full report with code outputs 
- [Cyclistic_Dashboard.twbx](https://github.com/Ananya-rao01/cyclistic-bike-share-case-study/blob/main/Cyclistic_Dashboard.twbx
+ [Cyclistic_Dashboard.twbx](https://github.com/Ananya-rao01/cyclistic-bike-share-case-study/blob/main/New_Cyclistic_Dashboard%20.twbx
 )->Tableau dashboard 
  [Dashboard_Preview.png](https://github.com/Ananya-rao01/cyclistic-bike-share-case-study/blob/main/Dashboard_Preview.png) -> Screenshot of the interactive dashboard
 

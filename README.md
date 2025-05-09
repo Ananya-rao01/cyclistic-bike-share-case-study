@@ -13,7 +13,7 @@ This is the final capstone project for the Google Data Analytics Certificate. Th
 ## Files Included
 
  File                                              
-[Case_Study_Analysis.ipynb](./Case_Study_Analysis.ipynb) ->Full Jupyter Notebook (data cleaning, EDA, visualization) 
+[Case_Study_Analysis.ipynb](https://github.com/Ananya-rao01/cyclistic-bike-share-case-study/blob/main/Case_Study_Analysis.ipynb) ->Full Jupyter Notebook (data cleaning, EDA, visualization) 
  [Cyclistic_Case_Study_Report.pdf](./Cyclistic_Case_Study_Report.pdf)->Final polished report 
 [Cyclistic_Case_Study_Report_with_Code.pdf](./Cyclistic_Case_Study_Report_with_Code.pdf)->Full report with code outputs 
  [Cyclistic_Dashboard.twbx](./Cyclistic_Dashboard.twbx)->Tableau dashboard 

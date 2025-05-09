@@ -36,9 +36,9 @@ This project uses 12 months of public ride data from Divvy:
 ##  Interactive Tableau Dashboard
 
 Explore the dynamic dashboard here:  
- [Cyclistic Tableau Dashboard](https://public.tableau.com/views/Cyclistic_Dashboard_17467570245440/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ [Cyclistic Tableau Dashboard](https://public.tableau.com/views/Cyclistic_Dashboard1/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
- [![Dashboard Preview](Dashboard_Preview.png)](https://public.tableau.com/views/Cyclistic_Dashboard_17467570245440/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ [![Dashboard Preview](Dashboard_Preview.png)](https://public.tableau.com/views/Cyclistic_Dashboard1/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
